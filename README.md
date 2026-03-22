@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-I'm Ashith, a fresher Full Stack Developer focused on the MERN stack and Next.js.
-I enjoy building modern web applications with clean UI, responsive layouts, and practical user experiences.
-
-## What I Like Building
-- Full stack web applications
-- Real-time collaboration apps
-- Responsive dashboards
-- Modern landing pages
-- Clean and interactive user interfaces
+I'm Ashith, a fresher Full Stack Developer focused on the MERN stack and Next.js. I enjoy building modern web applications with clean UI, responsive layouts, and practical user experiences, especially full stack web applications, real-time collaboration apps, responsive dashboards, modern landing pages, and clean interactive user interfaces.
 
 ## Currently Focused On
 - Improving full stack development skills
