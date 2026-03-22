@@ -18,9 +18,11 @@ I enjoy building modern web applications with clean UI, responsive layouts, and 
   
 ## Tools & Tech
 
-### Frontend - React, Next.js, Tailwind CSS, Bootstrap, Framer Motion, GSAP, JavaScript, HTML, CSS
+### Frontend 
+- React, Next.js, Tailwind CSS, Bootstrap, Framer Motion, GSAP, JavaScript, HTML, CSS
 
-### Backend - Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
+### Backend 
+- Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
 
 ## About Me
 
